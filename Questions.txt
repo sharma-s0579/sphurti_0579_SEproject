@@ -1,0 +1,5 @@
+Do you have cough and shortness of breath?
+Do you have fever?
+Do you have fatigue or body ache?
+Are you facing loss of smell or taste?
+Do you have gastrointestinal symptoms? 
